@@ -1,1 +1,1 @@
-{"acl":{"read":"authenticated","write":"authenticated","execute":"authenticated"},"contentType":"text/html","userConfig":"userConf"}
+{"acl":{"read":"anonymous","write":"anonymous","execute":"anonymous"},"contentType":"text/html","userConfig":"userconfupdated"}
